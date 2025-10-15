@@ -1,0 +1,8 @@
+nohup: ignoring input
+Building...
+/home/ubuntu/ConstructionProjectApi/ConstructionProjectApi.csproj : warning NU1902: Package 'System.IdentityModel.Tokens.Jwt' 7.0.3 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-59j7-ghrg-fj52
+/home/ubuntu/ConstructionProjectApi/ConstructionProjectApi.csproj : warning NU1902: Package 'System.IdentityModel.Tokens.Jwt' 7.0.3 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-59j7-ghrg-fj52
+[13:00:35 WRN] Failed to determine the https port for redirect.
+[13:00:35 WRN] Failed to determine the https port for redirect.
+[13:00:35 INF] User admin authenticated successfully.
+[13:00:35 INF] User admin authenticated successfully.
